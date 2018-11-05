@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,TaxTotal
+1,prithvi,OH,6.25,Tile,333,3.50,4.15,1165.50,2706.67,1381.95,159.22,2706.67
